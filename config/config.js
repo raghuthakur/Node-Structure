@@ -18,7 +18,7 @@ let config = {
     "server": {
         "NODE_SERVER": "",
         "ROOT_DIR": "/var/www/html/",
-        "BASE_URL": "http://13.232.62.239/new_node_structure/",
+        "BASE_URL": "",
         "NODE_SERVER_PORT": "6565",
         "MYSQL_HOST": 'localhost',
         "MYSQL_USER": '',
