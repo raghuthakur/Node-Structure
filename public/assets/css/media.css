@@ -1,0 +1,1413 @@
+@media only screen and (max-width: 1860px) {
+    .signupformboxCon{
+        padding: 70px 160px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 160px;
+        margin: 70px 0;
+    }
+    .signinwithrow{
+        padding: 15px 160px;
+    }
+}
+@media only screen and (max-width:1800px) {
+    .aboutwakiCon .sminfo,
+    .business_detailswrap .businConbx .sminfo {
+        font-size: 16px;
+        line-height: 32px
+    }
+    .aboutwakiCon,
+    .wakilogo {
+        left: 60px
+    }
+    .wakilogo {
+        top: 40px
+    }
+    .aboutwakiCon {
+        top: 190px
+    }
+    .aboutwakiCon .wakitextrow img,
+    .business_detailswrap .businesstextrow img {
+        width: 420px
+    }
+    .aboutwakiCon .emailrow .form-control,
+    .btn-primary.businessbtn,
+    .btn-primary.loginbtn,
+    .business_detailswrap .businConbx .businessfrombx .form-control,
+    .picker .pc-element,
+    .picker .pc-select .pc-list li,
+    .picker .pc-trigger,
+    .select-items div,
+    .select-selected {
+        font-size: 16px
+    }
+    .business_detailswrap .businConbx {
+        margin-left: 60px
+    }
+    .businessrttopbg {
+        width: 500px;
+        height: 570px
+    }
+    .mybrand button,
+    .mybrand input[type=text] {
+        font-size: 16px
+    }
+    .uploadimgbx,
+    .uploadimgbx .fileinput .thumbnail {
+        width: 125px;
+        height: 125px
+    }
+    .business_detailswrap .businConbx .businessfrombx .sales_year_choose span.select {
+        font-size: 16px
+    }
+    .livechatConbx .chatheading,
+    .orderid_row .idnum,
+    .orderidinfowrap ul li .orderidpernm {
+        font-size: 15px
+    }
+    .orderid_row .orderidtime,
+    .orderidinfowrap ul li .ordersminfo {
+        font-size: 14px
+    }
+    .btn-primary.sendmess,
+    .livechatConbx .chatsConbxs .chats_inputs,
+    .livechatConbx .sending_messagerw .form-control {
+        font-size: 15px
+    }
+    .livechatConbx .chatsConbxs .chats_inputs {
+        padding: 20px
+    }
+    .livechatConbx .chatsConbxs {
+        top: 62px;
+        bottom: 94px
+    }
+    .reviewfeddrow h4,
+    .reviewfeddrow h5 {
+        font-size: 15px
+    }
+    .accountbxinfo .usrdetails .usrnm,
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span,
+    .accountsetheaderrw .boxtitlenm,
+    .accountstaffwtbx .usrnms {
+        font-size: 20px
+    }
+    .accountbxinfo .usrdetails .phonenum_email,
+    .accountstaffwtbx .emailusr,
+    .accountstaffwtbx .phonenumrw,
+    .address_rowss {
+        font-size: 14px
+    }
+    .accountbxinfo.staffAccounts .usrdetails .usrnm {
+        font-size: 28px
+    }
+    .notificationlistrow,
+    .notificationtimesrw {
+        font-size: 14px
+    }
+    .dashboardConbx {
+        padding: 30px
+    }
+    .sidemenubtn {
+        margin-left: 30px
+    }
+    .signupformboxCon{
+        padding: 40px 120px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 120px;
+    }
+    .signinwithrow{
+        padding: 15px 120px;
+    }
+}
+
+@media only screen and (max-width: 1700px) {
+    .signupformboxCon{
+        padding: 40px 100px;
+    }
+    .signinwithrow{
+        padding: 15px 100px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 100px;
+        margin: 40px 0;
+    }
+    .signupwelrow .amlaalogo img {
+        width: 210px;
+    }
+    .fea_pro_box .itembox .itemimgbx {
+        height: 360px;
+    }
+    }
+
+@media only screen and (max-width:1600px) {
+    .uploadimgbx,
+    .uploadimgbx .fileinput .thumbnail {
+        width: 105px;
+        height: 105px
+    }
+    .livechatConbx .chatsConbxs {
+        padding: 30px
+    }
+    .livechatConbx .chatsConbxs {
+        padding: 20px
+    }
+    .livechatConbx .chatheading,
+    .orderid_row .idnum,
+    .orderidinfowrap ul li .orderidpernm {
+        font-size: 15px
+    }
+    .orderid_row .orderidtime,
+    .orderidinfowrap ul li .ordersminfo {
+        font-size: 13px
+    }
+    .livechatConbx .chatsConbxs .chats_inputs {
+        padding: 15px
+    }
+    .btn-primary.sendmess,
+    .livechatConbx .chatsConbxs .chats_inputs,
+    .livechatConbx .sending_messagerw .form-control {
+        font-size: 15px
+    }
+    .startabsrow .reviewfeddrow h4 {
+        margin-top: 5px
+    }
+    .addstaffAccount h3 {
+        font-size: 18px
+    }
+    .addstaffAccount .infos {
+        font-size: 15px
+    }
+    .accountbxinfo .usrdetails .usrnm,
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span,
+    .accountsetheaderrw .boxtitlenm,
+    .accountstaffwtbx .usrnms {
+        font-size: 18px
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+    .fea_pro_box .itembox .itemimgbx {
+        height: 320px;
+    }
+    .signupformboxCon{
+        padding: 30px 80px 20px 80px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 80px;
+        margin: 30px 0 20px 0;
+        background-size: 260px 265px;
+    }
+    .signupformboxCon .nav-tabs > li > a{
+        padding: 10px 0;
+    }
+    .loginbtn{
+        padding: 14px;
+    }
+    .chooseAccounttype h3,.forgotpasswordbox h3{
+        font-size: 22px;
+    }
+    .forgotpasswordbox h3{
+        padding-top: 60px;
+    }
+    .forgotpasswordbox h4{
+        font-size: 18px;
+    }
+    .forgotpassConin {
+        margin-top: 40px;
+    }
+    }
+
+@media only screen and (max-width:1440px) {
+    .aboutwakiCon {
+        top: 170px
+    }
+    .aboutwakiCon .wakitextrow img,
+    .business_detailswrap .businesstextrow img {
+        width: 350px
+    }
+    .aboutwakiCon .sminfo,
+    .business_detailswrap .businConbx .sminfo {
+        font-size: 15px;
+        line-height: 28px
+    }
+    .aboutwakiCon .emailrow .form-control {
+        padding: 13px 12px
+    }
+    .btn-primary.loginbtn {
+        padding: 13px 24px
+    }
+    .aboutwakiCon .emailrow .form-control,
+    .btn-primary.loginbtn {
+        font-size: 15px
+    }
+    .businessrttopbg {
+        width: 440px;
+        height: 502px
+    }
+    .uploadimgbx,
+    .uploadimgbx .fileinput .thumbnail {
+        width: 90px;
+        height: 90px
+    }
+    .products_alllist_numrow .pro_digitbx h2 {
+        font-size: 32px
+    }
+    .products_alllist_numrow .pro_digitbx h3 {
+        font-size: 18px
+    }
+    .imports_row .nav-tabs>li>a {
+        margin-right: 30px
+    }
+ 
+    .analyticsheading .productlisting .proimg {
+        width: 45px;
+        height: 45px
+    }
+    .analyticsheading .productlisting .aboutproductwrap {
+        margin-left: 54px
+    }
+    .orderid_row,
+    .orderidinfowrap ul li .orderidpernm {
+        margin-bottom: 5px
+    }
+    .orderidinfowrap ul li .ordersminfo {
+        line-height: 21px
+    }
+    .btn-primary.sendmess,
+    .livechatConbx .chatsConbxs .chats_inputs,
+    .livechatConbx .sending_messagerw .form-control {
+        font-size: 14px
+    }
+    .livechatConbx .chatsConbxs,
+    .livechatConbx .sending_messagerw,
+    .orderidinfowrap ul li {
+        padding: 15px
+    }
+    .livechatConbx .chatsConbxs {
+        bottom: 80px
+    }
+    .livechatConbx .chatsConbxs .chats_inputs {
+        padding: 15px;
+        line-height: 24px
+    }
+    .livechatConbx .chatsConbxs .chatsrw {
+        margin-bottom: 40px
+    }
+    .orderfeedbackbox,
+    .reviewfeddrow,
+    .startabsrow {
+        padding: 10px
+    }
+    .reviewfeddrow .reviewimg {
+        width: 80px;
+        height: 80px
+    }
+    .reviewfeddrow .reviewproinfo {
+        margin-left: 95px;
+        padding-top: 7px
+    }
+    .reviewfeddrow h4,
+    .reviewfeddrow h5 {
+        font-size: 14px
+    }
+    .reviewownerid,
+    .reviewownernm {
+        font-size: 13px
+    }
+    .startabsrow .nav-tabs {
+        margin-top: 16px
+    }
+    .starrow .fa {
+        font-size: 15px
+    }
+    .reviewsminfo {
+        margin-top: 10px
+    }
+    .row.reviewpd {
+        margin: 0 -10px
+    }
+    .reviewpdm {
+        padding: 0 10px
+    }
+    .accountbxinfo .usrdetails .usrnm,
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span,
+    .accountsetheaderrw .boxtitlenm,
+    .accountstaffwtbx .usrnms {
+        font-size: 16px
+    }
+    .accountbxinfo .usrdetails .phonenum_email,
+    .accountstaffwtbx .emailusr,
+    .accountstaffwtbx .phonenumrw,
+    .address_rowss {
+        font-size: 13px
+    }
+    .accountstaffwtbx .staff_usr_row .usrnmbx {
+        width: 80px;
+        height: 80px;
+        font-size: 32px;
+        line-height: 80px
+    }
+    .accounts_tabs_section .nav-tabs>li>a {
+        font-size: 14px
+    }
+    .accountsetheaderrw .aciconbx {
+        width: 70px;
+        height: 70px
+    }
+    .accountsetheaderrw .boxtitlenm {
+        line-height: 70px
+    }
+    .changepassordform .form-control {
+        font-size: 14px
+    }
+    .accountbxinfo {
+        padding: 15px 15px 10px 15px
+    }
+    .accountstaffwtbx {
+        padding: 15px
+    }
+    .dashboardConbx {
+        padding: 30px
+    }
+    .privacy_policy_wrap .headingtitle {
+        font-size: 20px
+    }
+    .privacy_policy_wrap .contenttextbx {
+        font-size: 15px
+    }
+    .privacy_policy_wrap .smheadingtitle {
+        font-size: 17px
+    }
+}
+
+@media only screen and (max-width:1400px) {
+    .livechatConbx .sending_messagerw .sendinput {
+        padding-right: 160px
+    }
+    .btn-primary.sendmess {
+        width: 150px
+    }
+    .addstaffAccount h3 {
+        font-size: 17px
+    }
+    .addstaffAccount .infos,
+    .addstaff_formbx .form-control {
+        font-size: 14px
+    }
+    .changepassordform .subbtnrw .btn-primary {
+        width: 120px
+    }
+}
+
+@media only screen and (max-width:1320px) {
+    .aboutwakiCon .wakitextrow img,
+    .business_detailswrap .businesstextrow img {
+        width: 300px
+    }
+    .aboutwakiCon .sminfo,
+    .business_detailswrap .businConbx .sminfo {
+        font-size: 14px;
+        line-height: 24px
+    }
+    .btn-primary.businessbtn,
+    .business_detailswrap .businConbx .businessfrombx .form-control,
+    .picker .pc-element,
+    .picker .pc-select .pc-list li,
+    .picker .pc-trigger,
+    .select-items div,
+    .select-selected {
+        font-size: 14px
+    }
+    .businessrttopbg {
+        width: 400px;
+        height: 456px
+    }
+    .aboutwakiCon .emailrow .form-control {
+        width: 300px
+    }
+    .dashboardConbx {
+        padding: 30px
+    }
+    .reviewfeedbackwrap {
+        padding: 10px
+    }
+    .starrow .fa {
+        font-size: 12px
+    }
+    .livechatwrap {
+        padding: 10px 0 10px 10px
+    }
+    .livechatwrap .padrightz {
+        padding-left: 10px
+    }
+    .dashboardConbx .digitbx,
+    .dashboardConbx .welcomebx {
+        padding: 15px
+    }
+    .totalSeleswrap {
+        padding: 20px
+    }
+    .orderstatuswrap .orderstatus {
+        padding: 20px
+    }
+    .activitiesCon {
+        padding-left: 10px
+    }
+    .sidemenubtn {
+        margin-left: 30px
+    }
+    .dashboardConbx .digitbx h4 {
+        font-size: 12px
+    }
+    .dashboardConbx .welcomebx h2 {
+        font-size: 21px
+    }
+    .dashboardConbx .welcomebx h3,
+    .totalSelesinfobx .sminfo {
+        font-size: 16px
+    }
+    .headers .menuiconbx .header_rtbx {
+        right: 30px
+    }
+    .addproducts {
+        margin: 30px
+    }
+    .totalSelesinfobx h3 {
+        font-size: 24px
+    }
+    .sidelogobx {
+        padding: 0 30px
+    }
+    .imports_row .nav-tabs>li>a {
+        font-size: 15px;
+        margin-right: 15px
+    }
+    .livechatConbx .chatheading,
+    .orderid_row .idnum,
+    .orderidinfowrap ul li .orderidpernm {
+        font-size: 15px
+    }
+    .orderidinfowrap ul li .ordersminfo {
+        font-size: 13px;
+        line-height: 24px
+    }
+    .orderid_row .orderidtime {
+        font-size: 13px
+    }
+    .livechatConbx .chatheading,
+    .livechatConbx .chatsConbxs .chats_inputs,
+    .orderid_row .idnum,
+    .orderidinfowrap ul li .orderidpernm {
+        font-size: 14px
+    }
+    .livechatConbx .chatheading .placedate {
+        font-size: 13px
+    }
+    .livechatConbx .chatheading {
+        padding: 15px
+    }
+    .livechatConbx .chatsConbxs .chatsrw {
+        margin-bottom: 35px
+    }
+    .livechatConbx .sending_messagerw .sendinput {
+        padding-right: 170px
+    }
+    .btn-primary.sendmess {
+        width: 160px
+    }
+    .btn-primary.sendmess,
+    .livechatConbx .sending_messagerw .form-control {
+        font-size: 15px
+    }
+    .livechatConbx .sending_messagerw .form-control {
+        padding: 12px 12px 12px 0
+    }
+    .livechatConbx .chatsConbxs {
+        bottom: 76px;
+        top: 50px
+    }
+    .changepassordform .subbtnrw .btn-primary {
+        width: 110px
+    }
+    .accountbxinfo .usrimgbx {
+        width: 70px;
+        height: 70px
+    }
+    .accountbxinfo .usrdetails {
+        margin-left: 85px
+    }
+    .notificationlistrow,
+    .notificationtimesrw {
+        font-size: 13px;
+        line-height: 20px
+    }
+    .signupformboxCon {
+        padding: 20px 60px 15px 60px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 60px;
+        margin: 20px 0 15px 0;
+    }
+    .signupwelrow .amlaalogo img {
+        width: 180px;
+    }
+    .signupwelrow .weltxt{
+        font-size: 18px;
+    }
+    .lostyourpasswordrw {
+        margin: 10px 0 15px 0;
+    }
+    .signinwithrow{
+        margin-top: 25px;
+    }
+    .socialmediarw {
+        margin-top: 15px;
+    }
+    .forgotpasswordbox h3{
+        padding-top: 40px;
+    }
+}
+
+@media only screen and (max-width:1220px) {
+    .signupformboxCon {
+        padding: 20px 50px 15px 50px;
+    }
+    .forgotpasswordbox{
+        padding: 0px 50px;
+        background-size: 220px 224px;
+    }
+    .wakilogo {
+        left: 20px;
+        top: 30px
+    }
+    .aboutwakiCon {
+        left: 20px;
+        top: 150px
+    }
+    .business_detailswrap .businConbx {
+        padding-top: 150px
+    }
+    .business_detailswrap.vendor .businConbx {
+        padding-top: 110px
+    }
+    .business_detailswrap .businesstextrow h1 {
+        font-size: 24px
+    }
+    .business_detailswrap.vendor .businConbx .businessfrombx {
+        margin-top: 30px
+    }
+    .business_detailswrap .businConbx {
+        margin-left: 20px
+    }
+    .analyticsheading .productlisting .proimg {
+        width: 40px;
+        height: 40px
+    }
+    .analyticsheading .productlisting .aboutproductwrap {
+        margin-left: 48px
+    }
+    .productdetailswrap .aboutproductwrap .soldpro_sminfo {
+        font-size: 11px
+    }
+    .productdetailswrap .aboutproductwrap .item_num_sold {
+        font-size: 13px
+    }
+    .analyticsheading .sessionheading h4,
+    .analyticsheading .topproducts h4,
+    .onlinestore .storeheadings h4,
+    .storesession .sessionwrap h4 {
+        font-size: 15px
+    }
+    .onlinestore .storeheadings a,
+    .storesession .sessionwrap a {
+        font-size: 13px
+    }
+    .analyticsheading .paddrw {
+        padding: 10px
+    }
+    .business_detailswrap .businConbx .businessfrombx .uploadimgbx,
+    .business_detailswrap .businConbx .businessfrombx .uploadimgbx .fileinput .thumbnail {
+        width: 110px;
+        height: 110px
+    }
+    .startabsrow .reviewfeddrow .reviewimg {
+        width: 60px;
+        height: 60px
+    }
+    .startabsrow .reviewfeddrow .reviewproinfo {
+        margin-left: 70px;
+        padding-top: 0
+    }
+    .startabsrow .reviewfeddrow h5 {
+        margin-top: 5px
+    }
+    .startabsrow .nav-tabs {
+        margin-top: 5px
+    }
+    .changepassordform .subbtnrw .btn-primary {
+        width: 100px;
+        font-size: 14px;
+        padding: 10px 8px
+    }
+    .accountsetheaderrw .aciconbx {
+        width: 60px;
+        height: 60px
+    }
+    .accountsetheaderrw .boxtitlenm {
+        line-height: 60px
+    }
+    .accountsetheaderrw .aciconbx span {
+        width: 36px;
+        height: 36px;
+        margin: -18px 0 0 -18px;
+        background-size: 36px 72px
+    }
+    .accountsetheaderrw .aciconbx span.signout {
+        background-position: 0 -36px
+    }
+    .accountstaffwtbx .staff_usr_row .usrnmbx {
+        width: 70px;
+        height: 70px;
+        font-size: 28px;
+        line-height: 70px
+    }
+    .accountaction span {
+        width: 6px;
+        height: 6px;
+        margin-bottom: 4px
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    .dashboardConbx .digitbx.mnbtm,
+    .dashboardConbx .welcomebx.mnbtm {
+        margin-bottom: 30px
+    }
+    .imports_row .nav-tabs>li>a {
+        font-size: 14px;
+        margin-right: 10px
+    }
+    .recentorder_tablewrap {
+        padding: 20px
+    }
+    .create_new_offer .eqWrap {
+        display: block
+    }
+    .productsviewrow.create_new_offer .texteditorwrap {
+        margin-bottom: 20px
+    }
+    .orderid_row .orderidtime {
+        font-size: 12px
+    }
+    .orderid_row {
+        padding-right: 60px
+    }
+    .livechatConbx .chatsConbxs {
+        padding: 15px
+    }
+    .livechatConbx .chatsConbxs .chats_inputs {
+        width: 90%;
+        padding: 10px;
+        font-size: 13px;
+        line-height: 24px
+    }
+    .livechatConbx .chatsConbxs .chatsrw {
+        margin-bottom: 30px
+    }
+    .livechatConbx .sending_messagerw {
+        padding: 15px
+    }
+    .livechatConbx .sending_messagerw .sendinput {
+        padding-right: 150px
+    }
+    .btn-primary.sendmess {
+        width: 140px
+    }
+    .livechatConbx .chatheading .placedate {
+        text-align: left
+    }
+    .livechatConbx .chatheading .placedate {
+        font-size: 11px
+    }
+    .accountbxinfo .usrimgbx {
+        width: 60px;
+        height: 60px
+    }
+    .accountbxinfo .usrdetails {
+        margin-left: 72px
+    }
+    .accountbxinfo .usrdetails .phonenum_email {
+        margin-top: 6px
+    }
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span {
+        line-height: 21px
+    }
+}
+
+@media only screen and (max-width:1170px) {
+    .aboutwakiCon {
+        width: 35%;
+        top: 160px
+    }
+    .products_alllist_numrow .pro_digitbx h2 {
+        font-size: 21px
+    }
+    .products_alllist_numrow .pro_digitbx h3 {
+        font-size: 14px;
+        margin-left: 5px
+    }
+    .imports_row h3 {
+        font-size: 17px
+    }
+    .imports_row .importsfile .glyphicon {
+        font-size: 20px
+    }
+    .imports_row .importsfile .imports_text {
+        font-size: 18px
+    }
+    .imports_row .nav-tabs>li>a {
+        padding: 10px 5px;
+        margin-right: 5px
+    }
+    .totalSelesinfobx h3 {
+        font-size: 21px
+    }
+    .business_detailswrap .businConbx .businessfrombx .sales_year_choose span.select {
+        height: 50px;
+        line-height: 50px
+    }
+    .livechatwrap .wd40s {
+        width: 45%
+    }
+    .livechatwrap .wd60s {
+        width: 55%
+    }
+    .livechatConbx .chatheading .placedate {
+        font-size: 9px
+    }
+    .startabsrow .reviewfeddrow h4 {
+        font-size: 13px;
+        line-height: 18px
+    }
+    .startabsrow .reviewfeddrow h5 {
+        margin-top: 0
+    }
+    .changepassordform .subbtnrw .btn-primary {
+        width: 80px;
+        font-size: 14px;
+        padding: 10px 0
+    }
+    .accountbxinfo {
+        padding: 10px 10px 5px 10px
+    }
+    .accountbxinfo .usrdetails .usrnm,
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span,
+    .accountsetheaderrw .boxtitlenm,
+    .accountstaffwtbx .usrnms {
+        font-size: 15px
+    }
+    .accountbxinfo.staffAccounts .usrdetails .usrnm span {
+        line-height: 18px
+    }
+    .accountstaffwtbx {
+        padding: 10px
+    }
+    .accountsetheaderrw .boxtitlenm {
+        margin-left: 10px
+    }
+    .accountbxinfo.staffAccounts .usrdetails .addmorebx {
+        top: 18px;
+        margin-top: 0
+    }
+}
+
+@media only screen and (max-width:1023px) {
+    .signupformboxCon{
+        padding: 50px 40px;
+    }
+    .signupleftimgbx{
+        display: none;
+    }
+    .signupformbox{
+        float: none;
+        width: auto;
+        box-shadow: none;
+    }
+    .eqWrap{
+        display: block;
+    }
+    .aboutwakiCon {
+        width: 45%;
+        top: 210px
+    }
+    .businessrttopbg {
+        width: 300px;
+        height: 342px
+    }
+    .business_detailswrap .businConbx {
+        width: 56%
+    }
+    .business_detailswrap .businConbx .businessfrombx {
+        padding-right: 0
+    }
+    .aboutwakiCon {
+        position: static;
+        left: auto;
+        top: auto;
+        width: auto;
+        padding: 160px 20px 20px 20px
+    }
+}
+
+@media(min-width:991px) {
+    #wrapper {
+        padding-left: 260px
+    }
+    #wrapper.toggled {
+        padding-left: 0
+    }
+    #wrapper.toggled .headers {
+        padding-left: 0
+    }
+    #sidebar-wrapper {
+        width: 260px
+    }
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0
+    }
+    #page-content-wrapper {
+        position: relative
+    }
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0
+    }
+    #wrapper.toggled .footer.dash .nav>li>a {
+        padding: 0 10px;
+        font-size: 14px
+    }
+    #wrapper.toggled .footer.dash p.copy {
+        font-size: 14px
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .sidelogobx {
+        width: 210px;
+        box-shadow: none
+    }
+    #wrapper.toggled .sidelogobx {
+        width: 210px;
+        box-shadow: none
+    }
+    #wrapper.toggled .headers {
+        padding-left: 0
+    }
+    .sidemenubtn {
+        margin-left: 20px
+    }
+    #wrapper.toggled {
+        padding-left: 0
+    }
+    #wrapper.toggled #page-content-wrapper {
+        margin-right: 0
+    }
+    .imports_row .nav-tabs>li>a {
+        padding: 10px;
+        margin-right: 10px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .wakilogo {
+        width: 120px;
+        height: 42px;
+        left: 50%;
+        margin-left: -60px
+    }
+    .aboutwakiCon .emailrow .form-control {
+        width: 100%;
+        margin-right: 0
+    }
+    .btn-primary.loginbtn {
+        width: 100%;
+        padding: 12px 0;
+        margin-top: 15px
+    }
+    .aboutwakiCon.firstpg {
+        width: 94%;
+        padding: 20px
+    }
+    .dontrempass {
+        position: static;
+        right: auto;
+        bottom: auto;
+        margin-left: 20px
+    }
+    .dontrempass a {
+        color: #feb71f
+    }
+    .footer_vendor_rw .copyrt {
+        display: block;
+        float: none;
+        text-align: center
+    }
+    .footer_vendor_rw .footer_nav {
+        margin-left: 0;
+        display: block;
+        margin-top: 10px;
+        text-align: center
+    }
+    .footer_vendor_rw .footer_nav ul {
+        display: table;
+        margin: auto
+    }
+    .aboutwakiCon .wakitextrow img,
+    .business_detailswrap .businesstextrow img {
+        width: 240px
+    }
+    .aboutwakiCon {
+        padding-top: 120px
+    }
+    .businessrttopbg {
+        display: none
+    }
+    .business_detailswrap .businConbx {
+        width: auto;
+        margin: 0 20px;
+        padding-top: 130px
+    }
+    .headers {
+        height: 70px
+    }
+    #wrapper.toggled .sidelogobx {
+        width: 70px
+    }
+    .sidelogobx {
+        width: 70px;
+        height: 70px;
+        padding: 0 15px
+    }
+    .sidelogo {
+        width: 40px;
+        height: 35px;
+        background-size: 100px 35px;
+        margin-top: 20px
+    }
+    .headers .menuiconbx .pgnm {
+        display: none
+    }
+    .headers .menuiconbx .header_rtbx {
+        top: 16px;
+        right: 20px
+    }
+    .sidemenubtn {
+        margin: 25px;
+        margin-left: 0
+    }
+    #sidebar-wrapper {
+        top: 70px
+    }
+    #page-content-wrapper {
+        padding-top: 70px
+    }
+    .dashboardConbx {
+        padding: 20px 15px
+    }
+    .reviewfeedbackwrap {
+        padding: 10px
+    }
+    .dashboardConbx .digitbx.mnbtm,
+    .dashboardConbx .digitrow,
+    .dashboardConbx .welcomebx.mnbtm,
+    .dashboardConbx .welcomerw,
+    .orderstatuswrap .orderstatus,
+    .totalSeleswrap {
+        margin-bottom: 20px
+    }
+    .orderstatuswrap {
+        margin-bottom: 0
+    }
+    .orderstatuswrap .eqWrap {
+        display: block
+    }
+    #sidebar-wrapper {
+        left: 280px;
+        margin-left: -280px
+    }
+    #wrapper.toggled #sidebar-wrapper {
+        width: 280px
+    }
+    .userprofilebx {
+        padding: 15px
+    }
+    .userprofilebx .usercirbx {
+        width: 50px;
+        height: 50px
+    }
+    .userprofilebx .userpnm {
+        margin-left: 70px;
+        padding-top: 5px
+    }
+    .sidemenuwrap .nav>li>a {
+        padding: 16px 50px 16px 20px;
+        font-size: 14px;
+        color: #3d3d3d
+    }
+    .navbar-nav {
+        margin: 0
+    }
+    .dashboardConbx .digitbx.mnbtm767 {
+        margin-bottom: 20px
+    }
+    .addproducts {
+        margin: 20px;
+        padding: 20px
+    }
+    .addproducts .addproimgbx {
+        margin-top: 30px;
+        margin-bottom: 30px
+    }
+    .addproducts h3 {
+        font-size: 18px
+    }
+    .addproducts .addprobtnrow .btn-primary.addpro {
+        padding: 14px 20px;
+        font-size: 14px
+    }
+    .imports_row .nav-tabs>li {
+        width: 33.33%
+    }
+    .imports_row .nav-tabs>li>a {
+        margin-right: 0;
+        padding: 10px 0;
+        text-align: center;
+        display: block
+    }
+    .recentorder_tablewrap {
+        padding: 15px
+    }
+    .recentOrderTable .table>tbody>tr>td,
+    .recentOrderTable .table>thead>tr>th {
+        font-size: 12px
+    }
+    .analyticsheading .onlinestore,
+    .analyticsheading .storesession,
+    .analyticsheading .topproducts {
+        padding: 0 10px
+    }
+    .analyticsheading .paddrw {
+        margin-bottom: 10px
+    }
+    .productsviewrow .eqWrap {
+        display: block
+    }
+    .productsviewrow .texteditorwrap {
+        margin-bottom: 20px
+    }
+    .addproductheadingrow h3 {
+        font-size: 16px;
+        padding-right: 150px
+    }
+    .addproductheadingrow .addproheadingbtn .btn-primary.addprobtn {
+        font-size: 13px;
+        padding: 7px 12px
+    }
+    .addproductheadingrow .addproheadingbtn .btn-primary.addprobtn.cancel {
+        margin-right: 10px
+    }
+    .addproductheadingrow {
+        padding: 20px 15px
+    }
+    .pdlsunye,
+    .pdr10wds {
+        padding: 0 10px
+    }
+    .pdrightwd10 {
+        padding-right: 15px
+    }
+    .pdleftwd10 {
+        padding-left: 15px
+    }
+    .mnbt7 {
+        margin-bottom: 20px
+    }
+    .table-responsive.revenue {
+        border: 0;
+        margin-bottom: 0
+    }
+    .totalSeleswrap {
+        padding: 15px
+    }
+    .totalSelesinfobx h3,
+    .totalSelesinfobx.sales_reports h4 {
+        font-size: 18px
+    }
+    .sales_year_choose span.select {
+        font-size: 16px
+    }
+    .totalSelesinfobx.sales_reports .sminfo {
+        font-size: 14px;
+        line-height: 28px
+    }
+    .live_view_headingsbx {
+        margin-bottom: 15px
+    }
+    .live_view_headingsbx h3,
+    .live_view_headingsbx h4 {
+        font-size: 17px
+    }
+    .live_view_headingsbx h4 {
+        font-size: 12px
+    }
+    .livechatwrap .wd40s {
+        width: auto;
+        position: static;
+        top: auto;
+        left: auto;
+        bottom: auto
+    }
+    .livechatwrap .wd60s {
+        position: static;
+        top: auto;
+        right: auto;
+        bottom: auto;
+        width: auto;
+        float: none
+    }
+    .livechatConbx,
+    .orderidinfowrap {
+        position: static;
+        top: auto;
+        right: auto;
+        left: auto;
+        bottom: auto
+    }
+    .orderidinfowrap {
+        max-height: 300px
+    }
+    .livechatConbx .chatsConbxs {
+        position: static;
+        top: auto;
+        left: auto;
+        right: auto;
+        bottom: auto;
+        max-height: 400px
+    }
+    .livechatConbx .sending_messagerw {
+        position: static;
+        left: auto;
+        right: auto;
+        bottom: auto
+    }
+    .livechatConbx {
+        margin-left: 0
+    }
+    .livechatwrap .padrightz {
+        padding-left: 0;
+        margin-bottom: 15px
+    }
+    .livechatwrap {
+        padding: 15px 10px
+    }
+    .livechatConbx .chatheading,
+    .livechatConbx .chatsConbxs,
+    .livechatConbx .sending_messagerw {
+        padding: 10px
+    }
+    .livechatConbx .chatsConbxs .chatsrw {
+        margin-bottom: 20px
+    }
+    .livechatConbx .sending_messagerw .sendinput {
+        padding-right: 0
+    }
+    .btn-primary.sendmess {
+        position: static;
+        left: auto;
+        top: auto;
+        width: 100%;
+        padding: 12px 0;
+        height: auto;
+        margin-top: 10px
+    }
+    .livechatwrap {
+        height: auto!important
+    }
+    .starrow {
+        text-align: left
+    }
+    .review_pad_left {
+        padding-left: 15px;
+        margin-top: 10px
+    }
+    .starrow .fa {
+        font-size: 16px
+    }
+    .startabsrow .starrow .fa {
+        font-size: 10px
+    }
+    .reviewfeddrow h4 {
+        overflow: inherit;
+        text-overflow: inherit;
+        white-space: normal;
+        line-height: 24px
+    }
+    .reviewownerid,
+    .reviewownernm,
+    .reviewsminfo {
+        overflow: inherit;
+        text-overflow: inherit;
+        white-space: normal
+    }
+    .reviewsminfo {
+        height: auto
+    }
+    .startabsrow .nav-tabs>li>a {
+        padding: 6px 0
+    }
+    .addstaff_formbx .form-group {
+        margin-bottom: 20px
+    }
+    .accountdetailsrow .eqWrap {
+        display: block
+    }
+    .accountSection .usrbxpad {
+        margin-bottom: 10px
+    }
+    .accountbxinfo {
+        padding: 10px
+    }
+    .accounts_tabs_section .nav-tabs>li>a {
+        padding: 12px 0;
+        font-size: 13px;
+        margin-right: 0
+    }
+    .headers .menuiconbx .header_rtbx .dropdown-menu {
+        top: 54px;
+        width: 300px
+    }
+    .privacy_policy_wrap {
+        margin: 20px 15px;
+        padding: 20px
+    }
+    .signupwrap .signbox {
+        top: 20px;
+        right: 20px;
+        left: 20px;
+        bottom: 20px;
+    }
+    .signupformboxCon {
+        padding: 30px 20px;
+        overflow:initial;
+        overflow-y: initial;
+    }
+    .forgotpasswordbox{
+        padding: 30px 20px;
+        margin: 0;
+        background-image: none;
+    }
+    .forgotpasswordbox h4 br{
+        display: none;
+    }
+    .forgotpasswordbox h3 {
+        padding-top: 20px;
+    }
+    .forgotpassConin {
+        margin-top: 30px;
+    }
+    #file-upload-filename, #file-upload-filename1{
+        width: 240px;
+    }
+    .childrendetailswrap {
+        padding: 0px 15px 15px 15px;
+    }
+    .childdetailsrow .headingbtnnm .headingbtn{
+        padding: 10px 0;
+    }
+    .childrendetailswrap h2{
+        margin: 0;
+        padding: 20px 0;
+    }
+}
+
+@media only screen and (max-width:380px) {
+    .imports_row .nav-tabs>li>a {
+        font-size: 11px
+    }
+    .startabsrow .starrow .fa {
+        font-size: 8px
+    }
+    .accounts_tabs_section .nav-tabs>li>a span {
+        display: block
+    }
+    .headers .menuiconbx .header_rtbx .dropdown-menu {
+        width: 260px
+    }
+    #file-upload-filename, #file-upload-filename1{
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width:359px) {
+    .addproducts .addprobtnrow .btn-primary.addpro {
+        padding: 14px 12px;
+        font-size: 12px
+    }
+    .startabsrow .starrow .fa {
+        font-size: 7px
+    }
+    .headers .menuiconbx .header_rtbx .dropdown-menu {
+        width: 230px
+    }
+    #file-upload-filename, #file-upload-filename1{
+        width: 180px;
+    }
+}
+
+    @media (max-height: 768px) and (max-width: 1024px) {
+    .signupformboxCon {
+        padding: 60px 40px 60px 40px;
+    }
+    .forgotpasswordbox {
+        padding: 0px 40px;
+        margin: 60px 0 60px 0;
+    }
+    }
+    
+    
+    @media (max-height: 480px) and (max-width: 320px) {
+    .signupwrap{
+        height: auto;
+    }
+    .signupwrap .signbox {
+        position: static;
+        top: auto;
+        right: auto;
+        left: auto;
+        bottom: auto;
+        padding: 20px;
+        background-color: transparent;
+    }
+    .signupformbox{
+        background-color: #fff;
+    }
+    }
+    
+    @media screen and (max-device-width: 767px) and (orientation: landscape) {
+    .signupwrap{
+        height: auto;
+    }
+    .signupwrap .signbox {
+        position: static;
+        top: auto;
+        right: auto;
+        left: auto;
+        bottom: auto;
+        padding: 20px;
+        background-color: transparent;
+    }
+    .signupformbox{
+        background-color: #fff;
+    }
+    }
